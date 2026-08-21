@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "argumentos.js",
+  "scripts": {
+    "start":"node argumentos.js",
+    "check":"node --check argumentos.js"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilasP08/api-produtos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SilasP08/api-produtos/issues"
+  },
+  "homepage": "https://github.com/SilasP08/api-produtos#readme"
+}
