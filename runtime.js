@@ -4,3 +4,6 @@ console.log({
     arquitetura:process.arch,
     diretorio:process.cwd()
 });
+
+process.exitCode = 2;
+
